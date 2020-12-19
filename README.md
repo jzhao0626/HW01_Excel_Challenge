@@ -1,4 +1,4 @@
-# excel-challenge
+# Excel-Challenge
 
 Background:
 
